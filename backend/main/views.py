@@ -331,21 +331,21 @@ def get_single_user(request, pk):
 
 
 @api_view(['PATCH'])
-def update_user(request):
+def update_user(request, pk):
     try:
         if request.method == 'PATCH':
-            user = request.user
+            user = User.objects.get(id=pk)
             username = request.POST.get('username')
             password = request.POST.get('password')
             user.username = username
-            if password == user.security:
-                user.set_password(password)
-                user.security = password
+            user.set_password(password)
+            user.security = password
             user.save()
             return Response(UserOne(user).data)
         return Response('wrong method het')
     except Exception as err:
         return Response(f'error is {err}')
+
 
 
 class UserImage(viewsets.ModelViewSet):
