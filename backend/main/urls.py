@@ -20,6 +20,6 @@ urlpatterns = [
     path('get/user/', get_user),
     path('user/<int:pk>/', get_single_user),
     path('user/<str:pk>/', get_single_user),
-    path('edit/user/', update_user),
+    path('edit/user/<int:pk>/', update_user),
 ]
 
