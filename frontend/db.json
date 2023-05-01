@@ -1,0 +1,542 @@
+{
+  "tables": [
+    {
+      "name": "abbosjon aka",
+      "price": 200,
+      "message": "24 soat do'kon, 2 kundan kegin beradi",
+      "date": "01.03.2023, 14:26:42",
+      "percent": 15,
+      "count": 2,
+      "category": {
+        "id": 1,
+        "label": "Yogurt 0.5l",
+        "value": "yogurt 0.5l",
+        "count": 20,
+        "price": 300,
+        "message": "Bu tovardan 240-ta bor"
+      },
+      "id": 1
+    },
+    {
+      "name": "xafiz",
+      "price": 200,
+      "message": "24 soat do'kon, 2 kundan kegin beradi",
+      "date": "01.03.2023, 14:26:42",
+      "percent": 15,
+      "count": 1,
+      "category": {
+        "id": 2,
+        "label": "Yogurt 1.5l",
+        "value": "yogurt 1.5l",
+        "count": 20,
+        "price": 300,
+        "message": "Bu tovardan 240-ta bor"
+      },
+      "id": 2
+    },
+    {
+      "name": "ayubhon",
+      "price": 4830,
+      "message": "24 soat do'kon, 2 kundan kegin beradi",
+      "date": "14.03.2023, 10:54:18",
+      "percent": 15,
+      "count": 14,
+      "category": {
+        "id": 4,
+        "label": "Yogurt 2l",
+        "value": "yogurt 2l",
+        "count": 20,
+        "price": 300,
+        "message": "Bu tovardan 240-ta bor"
+      },
+      "id": 3
+    },
+    {
+      "name": "anvar aka",
+      "price": 4017,
+      "message": "24 soat do'kon, 2 kundan kegin beradi",
+      "date": "14.03.2023, 10:54:16",
+      "count": 13,
+      "percent": 3,
+      "category": {
+        "id": 6,
+        "label": "Yogurt 1l",
+        "value": "yogurt 1l",
+        "count": 20,
+        "price": 300,
+        "message": "Bu tovardan 240-ta bor"
+      },
+      "id": 13
+    },
+    {
+      "name": "xojiakbar",
+      "price": 5175,
+      "message": "24 soat do'kon, 2 kundan kegin beradi",
+      "date": "14.03.2023, 10:54:12",
+      "count": 15,
+      "percent": 15,
+      "category": {
+        "id": 5,
+        "label": "Yogurt 1l",
+        "value": "yogurt 1l",
+        "count": 20,
+        "price": 300,
+        "message": "Bu tovardan 240-ta bor"
+      },
+      "id": 14
+    },
+    {
+      "name": "Abbos aka",
+      "price": 3360000,
+      "message": "bugun kechkipayit beradi",
+      "date": "14.03.2023, 14:20:32",
+      "count": 200,
+      "percent": 12,
+      "category": {
+        "label": "yogurt bananlik",
+        "count": 50,
+        "price": 15000,
+        "value": "yogurt bananlik",
+        "message": "bugun keldi + 25 ta",
+        "id": 14
+      },
+      "id": 16
+    },
+    {
+      "name": "Хожиакбар",
+      "price": 4480000,
+      "message": "effewfe",
+      "date": "13.03.2023, 15:18:52",
+      "count": 200,
+      "percent": 12,
+      "category": {
+        "label": "Yogurt qulpnoy",
+        "count": 50,
+        "price": 20000,
+        "value": "Yogurt qulpnoy",
+        "message": "Bu tovardan 240-ta bor",
+        "id": 12
+      },
+      "id": 15
+    },
+    {
+      "name": "shoxdiyor aka",
+      "price": 212800,
+      "message": "bugun beradi",
+      "date": "14.03.2023, 15:32:35",
+      "count": 20,
+      "percent": 12,
+      "category": {
+        "label": "yogurt ananas",
+        "count": 250,
+        "price": 9500,
+        "value": "yogurt ananas",
+        "message": "bugun keldi ",
+        "id": 15
+      },
+      "id": 17
+    },
+    {
+      "name": "o'ktam aka",
+      "price": 424000,
+      "message": "bugun beradi kechkipayt",
+      "date": "14.03.2023, 15:33:45",
+      "count": 20,
+      "percent": 6,
+      "category": {
+        "label": "Yogurt qulpnoy",
+        "count": 50,
+        "price": 20000,
+        "value": "Yogurt qulpnoy",
+        "message": "Bu tovardan 240-ta bor",
+        "id": 12
+      },
+      "id": 18
+    },
+    {
+      "name": "diyor",
+      "price": 492800,
+      "message": "bugun bersa kerak",
+      "date": "14.03.2023, 15:34:31",
+      "count": 22,
+      "percent": 12,
+      "category": {
+        "label": "yogurt shokolad",
+        "count": 20,
+        "price": 20000,
+        "value": "yogurt shokolad",
+        "message": "fewfewq",
+        "id": 16
+      },
+      "id": 19
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "label": "Yogurt 0.5l",
+      "value": "yogurt 0.5l",
+      "count": 10,
+      "price": 1100,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "id": 2,
+      "label": "Yogurt 1l",
+      "value": "yogurt 1l",
+      "count": 10,
+      "price": 2600,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "id": 3,
+      "label": "Yogurt 1.5l",
+      "value": "yogurt 1.5l",
+      "count": 10,
+      "price": 39000,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "id": 4,
+      "label": "Yogurt 2.5l",
+      "value": "yogurt 2.5l",
+      "count": 10,
+      "price": 54000,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "id": 5,
+      "label": "Yogurt 3l",
+      "value": "yogurt 3l",
+      "count": 10,
+      "price": 2500,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "id": 6,
+      "label": "Yogurt 3.5l",
+      "value": "yogurt 3.5l",
+      "count": 10,
+      "price": 62000,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "id": 7,
+      "label": "Yogurt 4l",
+      "value": "yogurt 4l",
+      "count": 10,
+      "price": 50000,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "id": 8,
+      "label": "Yogurt 4.5l",
+      "value": "yogurt 4.5l",
+      "count": 10,
+      "price": 40000,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "id": 9,
+      "label": "Yogurt 5l",
+      "value": "yogurt 5l",
+      "count": 10,
+      "price": 30000,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "id": 10,
+      "label": "Yogurt 5.5l",
+      "value": "yogurt 5.5l",
+      "count": 10,
+      "price": 10000,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "id": 11,
+      "label": "Yogurt 6ll",
+      "value": "Yogurt 6ll",
+      "count": 10,
+      "price": 20000,
+      "message": "Bu tovardan 240-ta bor"
+    },
+    {
+      "label": "Yogurt qulpnoy",
+      "count": 50,
+      "price": 20000,
+      "value": "Yogurt qulpnoy",
+      "message": "Bu tovardan 240-ta bor",
+      "id": 12
+    },
+    {
+      "label": "yogurt oddiy",
+      "count": 100,
+      "price": 20000,
+      "value": "yogurt oddiy",
+      "message": "efefewf",
+      "id": 13
+    },
+    {
+      "label": "yogurt bananlik",
+      "count": 50,
+      "price": 15000,
+      "value": "yogurt bananlik",
+      "message": "bugun keldi + 25 ta",
+      "id": 14
+    },
+    {
+      "label": "yogurt ananas",
+      "count": 250,
+      "price": 9500,
+      "value": "yogurt ananas",
+      "message": "bugun keldi ",
+      "id": 15
+    },
+    {
+      "label": "yogurt shokolad",
+      "count": 20,
+      "price": 20000,
+      "value": "yogurt shokolad",
+      "message": "fewfewq",
+      "id": 16
+    },
+    {
+      "label": "yogurt itt",
+      "count": 12,
+      "price": 10000,
+      "value": "yogurt itt",
+      "message": "bugun keldi",
+      "id": 17
+    },
+    {
+      "label": "e21",
+      "count": 32,
+      "price": 13222,
+      "value": "e21",
+      "message": "1r13r3",
+      "id": 18
+    },
+    {
+      "label": "32",
+      "count": 6,
+      "price": 32333,
+      "value": "32",
+      "message": "r32r32r",
+      "id": 19
+    },
+    {
+      "label": "cougar кресчло",
+      "count": 30,
+      "price": 90000,
+      "value": "cougar кресчло",
+      "message": "l;pl,",
+      "id": 20
+    }
+  ],
+  "catalog": [
+    {
+      "name": "Хожиакбар",
+      "price": 224,
+      "message": "wdq",
+      "date": "02.03.2023, 19:29:06",
+      "count": 2,
+      "percent": 12,
+      "category": {
+        "id": 1,
+        "label": "Yogurt 0.5l",
+        "value": "yogurt 0.5l",
+        "count": 10,
+        "price": 100
+      },
+      "id": 1
+    },
+    {
+      "name": "shoxdiyor aka",
+      "price": 759000,
+      "message": "bugun 14:00 da beraman",
+      "date": "03.03.2023, 20:05:33",
+      "count": 66,
+      "percent": 15,
+      "category": {
+        "id": 2,
+        "label": "Yogurt 1l",
+        "value": "yogurt 1l",
+        "count": 10,
+        "price": 10000,
+        "message": "Bu tovardan 240-ta bor"
+      },
+      "id": 7
+    },
+    {
+      "name": "Хожиакбар",
+      "price": 5040000,
+      "message": "25 ta sotyapman",
+      "date": "12.03.2023, 10:41:25",
+      "count": 300,
+      "percent": 12,
+      "category": {
+        "label": "yogurt bananlik",
+        "count": 25,
+        "price": 15000,
+        "value": "yogurt bananlik",
+        "message": "bugun keldi",
+        "id": 14
+      },
+      "id": 12
+    },
+    {
+      "name": "o'ktam aka",
+      "price": 7380,
+      "message": "24 soat do'kon, 2 kundan kegin beradi",
+      "date": "08.03.2023, 20:02:59",
+      "percent": 23,
+      "count": 20,
+      "category": {
+        "id": 7,
+        "label": "Yogurt 2l",
+        "value": "yogurt 2l",
+        "count": 20,
+        "price": 300,
+        "message": "Bu tovardan 240-ta bor"
+      },
+      "id": 6
+    },
+    {
+      "name": "anvar aka",
+      "price": 309,
+      "message": "24 soat do'kon, 2 kundan kegin beradi",
+      "date": "13.03.2023, 13:53:58",
+      "count": 1,
+      "percent": 3,
+      "category": {
+        "id": 6,
+        "label": "Yogurt 1l",
+        "value": "yogurt 1l",
+        "count": 20,
+        "price": 300,
+        "message": "Bu tovardan 240-ta bor"
+      },
+      "id": 13
+    },
+    {
+      "name": "maga",
+      "price": 112000,
+      "message": "tashab ketar ekan",
+      "date": "14.03.2023, 15:43:38",
+      "count": 5,
+      "percent": 12,
+      "category": {
+        "label": "Yogurt qulpnoy",
+        "count": 50,
+        "price": 20000,
+        "value": "Yogurt qulpnoy",
+        "message": "Bu tovardan 240-ta bor",
+        "id": 12
+      },
+      "id": 14
+    },
+    {
+      "name": "Хожиакбар",
+      "price": 168000,
+      "message": "kechkipayt beradi",
+      "date": "19.03.2023, 08:06:47",
+      "count": 15,
+      "percent": 12,
+      "category": {
+        "label": "yogurt itt",
+        "count": 12,
+        "price": 10000,
+        "value": "yogurt itt",
+        "message": "bugun keldi",
+        "id": 17
+      },
+      "id": 15
+    },
+    {
+      "name": "logistic-projects",
+      "price": 253490.72,
+      "message": "r3r2r",
+      "date": "21.03.2023, 22:07:24",
+      "count": 7,
+      "percent": 12,
+      "category": {
+        "label": "32",
+        "count": 6,
+        "price": 32333,
+        "value": "32",
+        "message": "r32r32r",
+        "id": 19
+      },
+      "id": 16
+    },
+    {
+      "name": "Хожиакбар",
+      "price": 67200,
+      "message": "ghhghg",
+      "date": "25.03.2023, 15:31:29",
+      "count": 6,
+      "percent": 12,
+      "category": {
+        "label": "yogurt itt",
+        "count": 12,
+        "price": 10000,
+        "value": "yogurt itt",
+        "message": "bugun keldi",
+        "id": 17
+      },
+      "id": 17
+    }
+  ],
+  "login": [
+    {
+      "username": "Xojiakbar ",
+      "password": "the_siddikov",
+      "id": 1
+    },
+    {
+      "username": "xojiakbar123",
+      "password": "the_siddikov123",
+      "id": 2
+    },
+    {
+      "username": "Xojiakbar",
+      "password": "the_siddikov",
+      "id": 3
+    },
+    {
+      "username": "Xojiakbar123",
+      "password": "the_siddiikov123",
+      "id": 4
+    },
+    {
+      "username": "xojiakbar",
+      "password": "12322",
+      "id": 5
+    },
+    {
+      "username": "Xojiakbar",
+      "password": "the_siddikov123",
+      "id": 6
+    },
+    {
+      "username": "xojiakbar",
+      "password": "1243444",
+      "id": 7
+    },
+    {
+      "username": "xojiakbar",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "username": "admin",
+      "password": "12",
+      "id": 9
+    },
+    {
+      "username": "admin",
+      "password": "1",
+      "id": 10
+    }
+  ]
+}

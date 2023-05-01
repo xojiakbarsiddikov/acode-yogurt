@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5dd4834-22dd-4f6b-b650-37c11b5f6c06" name="Changes" comment="fix to bugging">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/main/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/main/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/main/migrations/0002_rename_quantity_product_count_remove_owner_quantity_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/main/migrations/0003_rename_product_owner_category_rename_time_owner_date_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/main/migrations/0004_alter_owner_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/main/migrations/0005_alter_owner_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/main/migrations/0006_owner_price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/CreateUser-4885ff13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/CreateUser-8e140726.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/Crud-578ffbd9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/Crud-e1ca9620.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/Ecommerce-49505057.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/Ecommerce-76dc70af.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/Login-18e9a9f0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/ProductList-175a2083.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/ProductList-19cf8506.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/Table-26653c09.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/Table-ed8332a1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/assets/index-cc0ac8ec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/dashboards/Ecommerce.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/dashboards/Ecommerce.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MDb1Qk9KxkgGnPcGRAXbKPeR70" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xojiakbar\Yogurt-Crm\frontend\src\views\e-commerce" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="json-start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="json-start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.json-start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5dd4834-22dd-4f6b-b650-37c11b5f6c06" name="Changes" comment="" />
+      <created>1677304884551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677304884551</updated>
+      <workItem from="1677304885720" duration="217000" />
+      <workItem from="1677305147022" duration="194000" />
+      <workItem from="1677305362250" duration="812000" />
+      <workItem from="1677306189379" duration="16000" />
+      <workItem from="1678701953966" duration="623000" />
+      <workItem from="1679908053435" duration="8924000" />
+      <workItem from="1679984547593" duration="6128000" />
+      <workItem from="1680013609200" duration="713000" />
+      <workItem from="1680076873673" duration="7743000" />
+      <workItem from="1680088026872" duration="583000" />
+      <workItem from="1680088626829" duration="1014000" />
+      <workItem from="1680156973897" duration="7147000" />
+      <workItem from="1680246507037" duration="12458000" />
+      <workItem from="1680321926695" duration="8980000" />
+      <workItem from="1680346079511" duration="2625000" />
+      <workItem from="1680378435556" duration="6175000" />
+      <workItem from="1680413808357" duration="7521000" />
+      <workItem from="1681118334490" duration="262000" />
+      <workItem from="1681209356457" duration="1234000" />
+      <workItem from="1681462037204" duration="1492000" />
+      <workItem from="1682049887976" duration="3347000" />
+      <workItem from="1682054279964" duration="604000" />
+      <workItem from="1682060891598" duration="686000" />
+      <workItem from="1682250073497" duration="1316000" />
+      <workItem from="1682272620238" duration="1186000" />
+      <workItem from="1682307926512" duration="2459000" />
+      <workItem from="1682411694817" duration="3735000" />
+      <workItem from="1682467894662" duration="596000" />
+      <workItem from="1682494094478" duration="619000" />
+      <workItem from="1682556954549" duration="12000" />
+      <workItem from="1682761921964" duration="627000" />
+      <workItem from="1682924757201" duration="571000" />
+      <workItem from="1682925642497" duration="168000" />
+      <workItem from="1682925847074" duration="229000" />
+      <workItem from="1682926146057" duration="902000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix to bugging">
+      <created>1680076914395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680076914395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix to bugging">
+      <created>1681209369320</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681209369320</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix to bugging" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix to bugging" />
+  </component>
+</project>

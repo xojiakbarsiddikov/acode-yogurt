@@ -1,0 +1,72 @@
+/* You can add global styles to this file, and also import other style files */
+
+$gutter: 1rem; //for primeflex grid system
+@import '@/assets/layout/layout.scss';
+
+/* PrimeVue */
+@import 'primevue/resources/primevue.min.css';
+@import 'primeflex/primeflex.scss';
+@import 'primeicons/primeicons.css';
+
+/* Demos */
+@import '@/assets/demo/Demos.scss';
+
+.text-4xl {
+  font-size: 3rem !important;
+}
+.layout-menuitem-root-text {
+  display: none;
+}
+
+.font-sizes {
+  font-size: 1.2rem!important;
+}
+
+.actives {
+  margin-top: 40px;
+}
+.border {
+  border-bottom: 1px solid var(--primary-color);
+  padding-bottom: 5px;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem !important;
+  text-align: center;
+}
+.p-sidebar .p-sidebar-header {
+  padding: 1rem 1.25rem;
+}
+
+.p-button.p-button-warning, .p-buttonset.p-button-warning > .p-button, .p-splitbutton.p-button-warning > .p-button {
+  background: #ef4444;
+}
+.color-red {
+  color: #e24c4c;
+}
+.text-summ {
+  margin-top: 30px;
+  overflow: hidden;
+}
+
+.cursor{
+  cursor: pointer;
+}
+
+.p-fileupload-buttonbar {
+  display: none!important;
+}
+
+.p-button.p-button-icon-only {
+  margin: 0 auto;
+}
+.border-bottom {
+  border-bottom: 1px solid var(--primary-color);
+  width: 100%;
+}
+.border-bottom:hover {
+  background: transparent!important;
+}
+.layout-root-menuitem ul > li:nth-child(6) {
+  padding: 0 22px 0!important;
+}
