@@ -94,7 +94,6 @@ const saveProduct = async () => {
 };
 
 const deleteProduct = async (index) => {
-  console.log(index)
     products.value = products.value.filter((val) => val.id !== product.value.id);
     await axios.delete(`${api_url}/delete/user/${index}/`)
         .then(() => {window.location.reload()})
