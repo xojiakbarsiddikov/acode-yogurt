@@ -158,10 +158,10 @@ const minusSums = ref(null);
 const allSums = ref(null);
 const credit = ref(null);
 const finishCredit = ref(null);
-const countProducts = ref(null);
+const countProducts = ref(0);
 const label = ref(null)
 const img = ref(null)
-const price = ref(null)
+const price = ref(0)
 const message = ref(null)
 const users = ref(null)
 
@@ -248,9 +248,7 @@ watch(
       <div class='card h-full flex flex-column align-items-center justify-content-center'>
         <i class='pi pi-slack text-primary text-4xl mb-4'></i>
         <span class='text-900 text-lg mb-4 font-medium'>Jami</span>
-        <span class='text-900 text-1xl text-primary font-bold'>Mahsulotlar: &nbsp;{{
-            countProducts
-          }}<br> Sotilgan mahsulotlar: &nbsp;{{ tables }} <br> Balans: &nbsp;{{ sums }}&nbsp; so'm</span>
+        <span class='text-900 text-1xl text-primary font-bold'>Mahsulotlar: &nbsp;{{ countProducts }}<br> Sotilgan mahsulotlar: &nbsp;{{ tables }} <br> Balans: &nbsp;{{ sums }}&nbsp; so'm</span>
       </div>
     </div>
     <div class='col-12 md:col-6 xl:col-2' @click='openDialog'>
